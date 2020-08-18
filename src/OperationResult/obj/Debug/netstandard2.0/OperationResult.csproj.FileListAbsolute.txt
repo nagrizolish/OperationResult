@@ -1,0 +1,14 @@
+C:\work\pi-platform\platform_commons\platform_commons\Dozens.Common.Abstraction\OperationResult\obj\Debug\netstandard2.0\OperationResult.csprojAssemblyReference.cache
+C:\work\pi-platform\platform_commons\platform_commons\Dozens.Common.Abstraction\OperationResult\obj\Debug\netstandard2.0\OperationResult.AssemblyInfoInputs.cache
+C:\work\pi-platform\platform_commons\platform_commons\Dozens.Common.Abstraction\OperationResult\obj\Debug\netstandard2.0\OperationResult.AssemblyInfo.cs
+C:\work\pi-platform\platform_commons\platform_commons\Dozens.Common.Abstraction\OperationResult\obj\Debug\netstandard2.0\OperationResult.csproj.CoreCompileInputs.cache
+C:\work\pi-platform\platform_commons\platform_commons\Dozens.Common.Abstraction\OperationResult\bin\Debug\netstandard2.0\OperationResult.deps.json
+C:\work\pi-platform\platform_commons\platform_commons\Dozens.Common.Abstraction\OperationResult\bin\Debug\netstandard2.0\OperationResult.dll
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\obj\Debug\netstandard2.0\OperationResult.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\obj\Debug\netstandard2.0\OperationResult.AssemblyInfo.cs
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\obj\Debug\netstandard2.0\OperationResult.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\bin\Debug\netstandard2.0\OperationResult.deps.json
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\bin\Debug\netstandard2.0\OperationResult.dll
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\bin\Debug\netstandard2.0\OperationResult.pdb
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\obj\Debug\netstandard2.0\OperationResult.dll
+C:\Users\Admin\Documents\Pet\OpResult\OperationResult\OperationResult\obj\Debug\netstandard2.0\OperationResult.pdb
