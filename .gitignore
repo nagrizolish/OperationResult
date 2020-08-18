@@ -1,0 +1,61 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+**/[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+**/[Bb]in/
+**/[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
+
+
+
+
+
+
+
+
+
+#/Api.Downing/bin/Debug/netcoreapp2.0
+#/Api.Downing/obj
+#/Infrastructure/Data/Downing.Infrastructure.Data.Bonds/bin/Debug/netcoreapp2.0
+#/Infrastructure/Data/Downing.Infrastructure.Data.Bonds/obj
+#/Infrastructure/Providers/Downing.Infrastructure.Providers.Email/bin/Debug/netcoreapp2.0
+#/Infrastructure/Providers/Downing.Infrastructure.Providers.Email/obj
+#/InvestmentManagement/Domain/Downing.InvestmentManagement.Domain/bin/Debug/netcoreapp2.0
+#/InvestmentManagement/Domain/Downing.InvestmentManagement.Domain/obj
+#/InvestmentManagement/Tests/Domain/Downing.InvestmentManagement.Domain.UnitTests/bin/Debug/netcoreapp2.0
+#/InvestmentManagement/Tests/Domain/Downing.InvestmentManagement.Domain.UnitTests/obj
+#/InvestmentManagement/Tests/API/Downing.InvestmentManagement.API.IntegrationTests/obj/Release/netcoreapp2.0
+/.vscode
+MarketingAndCommunication/API/Downing.MarketingAndCommunication.API/Properties/PublishProfiles/down-how-did-you-hear-about-marcom-api-dev-as - Web Deploy.pubxml
+Authentication/API/Downing.Authentication.API/Properties/PublishProfiles/down-how-did-you-hear-about-authentication-api-dev-as - Web Deploy.pubxml
+coverage.json
